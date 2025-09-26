@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Animals\Birds\" />
+    <Folder Include="Animals\Reptiles\" />
+  </ItemGroup>
+
 </Project>
